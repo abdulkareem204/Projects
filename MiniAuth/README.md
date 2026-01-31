@@ -51,8 +51,8 @@ This project focuses on learning the fundamentals the right way — clean struct
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/miniauth.git
-   cd miniauth
+   git clone https://github.com/Anonymous749/Projects.git
+   cd MiniAuth
 
 ## 🗂️ Project Structure (Clean & Tracked)
 ```

@@ -50,8 +50,8 @@ This project focuses on learning the fundamentals the right way — clean struct
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Anonymous749/Projects.git
+   ```
+   git clone https://github.com/abdulkareem204/Projects.git
    cd MiniAuth
 
 ## 🗂️ Project Structure (Clean & Tracked)
